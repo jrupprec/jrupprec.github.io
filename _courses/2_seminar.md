@@ -3,7 +3,7 @@ layout: page
 title: Seminar Data Science
 description: 
 img: assets/img/seminar_data_science.png
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---

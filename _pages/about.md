@@ -27,5 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**Hi, I'm Jens!**
-I hold both a B.A. degree in Sociology from Otto-Friedrich University Bamberg and a M.Sc. in Data Science from the University of Mannheim. Due to my academic backgroud my main research focus and interest lies in Computational Social Science and how Large Language Models can be deployed and evaluated in this domain.
+I hold a degree in Sociology (B.A.) from Otto-Friedrich University Bamberg and a in Data Science (M.Sc.) from the University of Mannheim. Due to my academic backgroud my main research focus and interest lies in Computational Social Science and how Large Language Models can be deployed and evaluated in this domain.

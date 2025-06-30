@@ -62,10 +62,10 @@
       items:
         - Synthetic Data Generation with LLMs.
         - Persona Prompting.
-    - title: .
-      items:
-        - Description 1.
-        - Description 2.
+    # - title: .
+    #   items:
+    #     - Description 1.
+    #     - Description 2.
 
 - title: Other Interests
   type: list

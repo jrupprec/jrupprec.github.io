@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-06-30 17:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I will be participating at [IC²S² Conference](https://www.ic2s2-2025.org/) in Norrköping, Sweden presenting my preprint **Digital Doppelgangers or Deceptive Echoes? \\ Quantifying Human-Like Response Bias and Robustness in LLM-Generated Synthetic Survey Responses** 

@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: This page gives an overview of my taught courses.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 # Scientific Programming with Python (IS 557)

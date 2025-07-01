@@ -7,10 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_courses/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
-
 # Scientific Programming with Python (IS 557)
 This course introduces students to principles of scientific programming with the Python programming language. Aside from more introductory concepts, more advanced programming concepts and important scientific libraries essential for data analysis and research are introduced.
 On completion of the course students should be familiar with the Python programming language and able to solve more scientific and complex problems in Python. This covers the application of scientific libraries, some machine learning techniques, the collection of data with web mining and handling of large datasets.

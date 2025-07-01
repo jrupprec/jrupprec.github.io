@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.bwl.uni-mannheim.de/strohmaier/team/'>University of Mannheim</a>. 
+subtitle: <a href='https://www.bwl.uni-mannheim.de/strohmaier/team/'>University of Mannheim</a> 
 # Address. Contacts. Motto. Etc.
 
 profile:
@@ -28,4 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My academic background bridges two distinct but complementary fields, with a B.A. in Sociology from Otto-Friedrich University Bamberg and an M.Sc. in Data Science from the University of Mannheim. This unique combination drives my research in Computational Social Science, where I focus on the deployment and evaluation of Large Language Models. Specifically, I am interested in two key areas: leveraging and evaluating LLMs for synthetic data generation to model society, and advancing knowledge in survey methodology.
+I am a PhD student at the *Chair for Data Science in the Economic and Social Sciences* at the University of Mannheim. Our chair focuses on developing methods for understanding human social and economic behavior via analyzing textual and relational data.
+
+My academic background bridges two distinct but complementary fields, with a B.A. in Sociology from Otto-Friedrich University Bamberg and an M.Sc. in Data Science from the University of Mannheim. This combination drives my research in Computational Social Science, where I focus on the deployment and evaluation of Large Language Models. Specifically, I am interested in two key areas: leveraging and evaluating LLMs for synthetic data generation to model society, and advancing knowledge in survey methodology. I pursue computational, empirical and data-driven research approaches in collaboration with colleagues from the computer sciences, the economic sciences and the social sciences.

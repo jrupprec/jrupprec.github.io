@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.bwl.uni-mannheim.de/strohmaier/team/'>University of Mannheim</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.bwl.uni-mannheim.de/strohmaier/team/'>University of Mannheim</a>. 
+# Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -22,9 +23,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I hold a degree in Sociology (B.A.) from Otto-Friedrich University Bamberg and a in Data Science (M.Sc.) from the University of Mannheim. Due to my academic backgroud my main research focus and interest lies in Computational Social Science and how Large Language Models can be deployed and evaluated in this domain.
+My academic background bridges two distinct but complementary fields, with a B.A. in Sociology from Otto-Friedrich University Bamberg and an M.Sc. in Data Science from the University of Mannheim. This unique combination drives my research in Computational Social Science, where I focus on the deployment and evaluation of Large Language Models. Specifically, I am interested in two key areas: leveraging and evaluating LLMs for synthetic data generation to model society, and advancing knowledge in survey methodology.

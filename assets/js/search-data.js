@@ -59,12 +59,7 @@ ninja.data = [{
       },{id: "news-i-will-be-participating-at-ic-s-conference-in-norrköping-sweden-from-the-21-to-the-24-july-2025-presenting-a-poster-of-the-preprint-digital-doppelgangers-or-deceptive-echoes-quantifying-human-like-response-bias-and-robustness-in-llm-generated-synthetic-survey-responses",
           title: 'I will be participating at IC²S² Conference in Norrköping, Sweden from the 21....',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{
+          section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',

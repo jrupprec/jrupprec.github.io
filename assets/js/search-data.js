@@ -37,6 +37,9 @@ ninja.data = [{
       },{id: "news-i-will-be-participating-at-ic-s-conference-in-norrköping-sweden-from-the-21-to-the-24-july-2025-presenting-a-poster-of-the-preprint-prompt-perturbations-reveal-human-like-biases-in-llm-survey-responses",
           title: 'I will be participating at IC²S² Conference in Norrköping, Sweden from the 21....',
           description: "",
+          section: "News",},{id: "news-i-participated-in-a-workshop-at-gesis-in-cologne-germany-discussing-the-opportunities-and-challenges-of-simulating-societies-with-artificial-intelligence-especially-large-language-models-i-also-presented-our-current-work-on-representative-persona-collections-german-general-personas-a-survey-derived-persona-prompt-collection-for-population-aligned-llm-studies",
+          title: 'I participated in a workshop at GESIS in Cologne, Germany discussing the opportunities...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',

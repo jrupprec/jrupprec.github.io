@@ -1,9 +1,7 @@
-# "AJP":
-#   url: https://aapt.scitation.org/journal/ajp
-#   color: "#00369f"
+"LREC":
+  url: https://lrec2026.info/
+  color: "#2196F3"
 
-# "PhysRev":
-#   url: https://journals.aps.org/
-
-# "Vision":
-#   color: "#009f36"
+"EACL":
+  url: https://2026.eacl.org/
+  color: "#4CAF50"

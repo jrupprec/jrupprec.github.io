@@ -40,6 +40,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-participated-in-a-workshop-at-gesis-in-cologne-germany-discussing-the-opportunities-and-challenges-of-simulating-societies-with-artificial-intelligence-especially-large-language-models-i-also-presented-our-current-work-on-representative-persona-collections-german-general-personas-a-survey-derived-persona-prompt-collection-for-population-aligned-llm-studies",
           title: 'I participated in a workshop at GESIS in Cologne, Germany discussing the opportunities...',
           description: "",
+          section: "News",},{id: "news-our-paper-qstn-a-modular-framework-for-robust-questionnaire-inference-with-large-language-models-has-been-accepted-at-eacl-2026-system-demonstrations",
+          title: 'Our paper QSTN: A Modular Framework for Robust Questionnaire Inference with Large Language...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
@@ -52,7 +55,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%65%6E%73.%72%75%70%70%72%65%63%68%74 [%61%74] %75%6E%69.%6D%61%6E%6E%68%65%69%6D.%64%65", "_blank");
+          window.open("mailto:%6A%65%6E%73.%72%75%70%70%72%65%63%68%74 [%61%74] %75%6E%69-%6D%61%6E%6E%68%65%69%6D.%64%65", "_blank");
         },
       },{
         id: 'social-github',

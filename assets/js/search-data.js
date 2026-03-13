@@ -36,7 +36,7 @@ ninja.data = [{
         },
       },{id: "courses-scientific-programming-with-python",
           title: 'Scientific Programming with Python',
-          description: "IS 557 &amp;middot; Master &amp;middot; Teaching Assistant",
+          description: "IS 557 &amp;middot; Master &amp;middot; Exercise Instructor",
           section: "Courses",handler: () => {
               window.location.href = "/courses/1_python/";
             },},{id: "courses-seminar-data-science-i-amp-ii",
@@ -46,9 +46,14 @@ ninja.data = [{
               window.location.href = "/courses/2_seminar/";
             },},{id: "courses-foundations-of-information-systems",
           title: 'Foundations of Information Systems',
-          description: "IS 301 &amp;middot; Bachelor &amp;middot; Teaching Assistant",
+          description: "IS 301 &amp;middot; Bachelor &amp;middot; Exercise Instructor",
           section: "Courses",handler: () => {
               window.location.href = "/courses/3_is301/";
+            },},{id: "courses-seminar-data-science-i-amp-ii",
+          title: 'Seminar: Data Science I &amp;amp; II',
+          description: "CS 721 / IS 723 &amp;middot; Master &amp;middot; Instructor",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/4_seminar/";
             },},{id: "news-i-will-be-participating-at-ic-s-conference-in-norrköping-sweden-from-the-21-to-the-24-july-2025-presenting-a-poster-of-the-preprint-prompt-perturbations-reveal-human-like-biases-in-llm-survey-responses",
           title: 'I will be participating at IC²S² Conference in Norrköping, Sweden from the 21....',
           description: "",

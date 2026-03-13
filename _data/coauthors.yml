@@ -1,18 +1,18 @@
-"georg":
-  - firstname: ["Georg", "Ahnert"]
+"ahnert":
+  - firstname: ["Georg"]
     url: https://scholar.google.com/citations?user=JCFXmU4AAAAJ
-"markus":
-  - firstname: ["Markus", "Strohmaier"]
+"strohmaier":
+  - firstname: ["Markus"]
     url: https://scholar.google.com/citations?user=j_pL_PQAAAAJ&hl=de
-"maximilian":
-  - firstname: ["Maximilian", "Kreutner"]
+"kreutner":
+  - firstname: ["Maximilian"]
     url: https://scholar.google.com/citations?user=HEWaGw8AAAAJ
-"ahmed":
-  - firstname: ["Ahmed", "Salem"]
+"salem":
+  - firstname: ["Ahmed"]
     url: https://www.bwl.uni-mannheim.de/strohmaier/team/
-"leon":
-  - firstname: ["Leon", "Fröhling"]
+"frohling":
+  - firstname: ["Leon"]
     url: https://scholar.google.com/citations?user=U6qDwf4AAAAJ
-"claudia":
-  - firstname: ["Claudia", "Wagner"]
+"wagner":
+  - firstname: ["Claudia"]
     url: https://scholar.google.com/citations?user=R5-PPJQAAAAJ

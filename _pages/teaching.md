@@ -2,31 +2,22 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: This page gives an overview of courses I hold.
+description: Overview of courses I teach at the University of Mannheim.
 nav: true
 nav_order: 3
+semesters: ["Spring 2026", "Autumn 2025"]
 ---
 
-## Spring Semester 2026
-
-# Foundations of Information Systems (IS 301)
-This course introduces students to information systems fundamentals, covering technological foundations, development processes, and management practices. Topics include basic definitions in the field of information systems as well as design and structure.
-
-Role: Exercise class
-
-## Autumn Semester 2025
-
-# Scientific Programming with Python (IS 557)
-This course introduces students to principles of scientific programming with the Python programming language. Aside from more introductory concepts, more advanced programming concepts and important scientific libraries essential for data analysis and research are introduced.
-On completion of the course students should be familiar with the Python programming language and able to solve more scientific and complex problems in Python. This covers the application of scientific libraries, some machine learning techniques, the collection of data with web mining and handling of large datasets.
-
-Skills:
-
-- Handling of scientific programming projects
-- Independent choice of data-structures and methods to solve a given problem
-- Knowledge about the different scientific libraries and their advantages
-- Data preprocessing, analysis and visualization
-
-
-# Seminar: Data Science I & II (CS 721 & IS 723)
-In this seminar, students perform scientific research, either in the form of a literature review or by conducting a small experiment, or a mixture of both, and prepare a written report about the results. Topics of interest focus around a variety of problems and tasks from the fields of Data-Science, Network Science and Text Mining.
+<div class="teaching">
+{% for semester in page.semesters %}
+  {% assign semester_courses = site.courses | where: "semester", semester | sort: "importance" %}
+  {% if semester_courses.size > 0 %}
+  <h2 class="mt-4">{{ semester }}</h2>
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for course in semester_courses %}
+      {% include courses.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+{% endfor %}
+</div>

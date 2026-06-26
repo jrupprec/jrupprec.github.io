@@ -66,7 +66,18 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-qstn-a-modular-framework-for-robust-questionnaire-inference-with-large-language-models-has-been-accepted-at-eacl-2026-system-demonstrations",
           title: 'Our paper QSTN: A Modular Framework for Robust Questionnaire Inference with Large Language...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-i-presented-our-paper-at-lrec-2026-in-palma-de-mallorca-spain-german-general-social-survey-personas-a-survey-derived-persona-prompt-collection-for-population-aligned-llm-studies",
+          title: 'I presented our paper at LREC 2026 in Palma de Mallorca, Spain: German...',
+          description: "",
+          section: "News",},{id: "news-i-attended-the-css-dach-conference-in-vienna-austria-bringing-together-researchers-in-computational-social-science-from-german-speaking-countries",
+          title: 'I attended the CSS DACH Conference in Vienna, Austria, bringing together researchers in...',
+          description: "",
+          section: "News",},{id: "news-css-school-at-lake-como",
+          title: 'CSS School at Lake Como',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
+            },},{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',

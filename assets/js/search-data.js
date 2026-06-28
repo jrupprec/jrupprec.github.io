@@ -77,6 +77,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
+            },},{id: "news-presenting-at-nlp-css-workshop-at-acl-2026",
+          title: 'Presenting at NLP+CSS Workshop at ACL 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_9/";
+            },},{id: "news-co-organizing-a-tutorial-at-ic-s-2026",
+          title: 'Co-organizing a Tutorial at IC²S² 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_8/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',

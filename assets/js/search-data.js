@@ -72,22 +72,16 @@ ninja.data = [{
           section: "News",},{id: "news-i-attended-the-css-dach-conference-in-vienna-austria-bringing-together-researchers-in-computational-social-science-from-german-speaking-countries",
           title: 'I attended the CSS DACH Conference in Vienna, Austria, bringing together researchers in...',
           description: "",
-          section: "News",},{id: "news-css-school-at-lake-como",
-          title: 'CSS School at Lake Como',
+          section: "News",},{id: "news-i-attended-the-css-school-at-lake-como-and-presented-our-work-on-how-the-level-of-human-response-variation-in-a-survey-items-affects-the-alignment-of-synthetic-survey-responses-with-persona-prompting",
+          title: 'I attended the CSS School at Lake Como and presented our work on...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_7/";
-            },},{id: "news-presenting-at-nlp-css-workshop-at-acl-2026",
-          title: 'Presenting at NLP+CSS Workshop at ACL 2026',
+          section: "News",},{id: "news-i-will-present-our-paper-prompt-perturbations-reveal-human-like-biases-in-large-language-model-survey-responses-at-the-seventh-workshop-on-nlp-and-computational-social-science-nlp-css-at-acl-2026-in-san-diego-we-test-18-large-language-models-on-survey-questions-from-the-world-values-survey-applying-ten-different-perturbations-to-question-wording-and-answer-options-across-over-334-800-simulated-survey-interviews-we-find-that-17-out-of-18-models-display-recency-bias-disproportionately-favoring-the-last-presented-answer-option-while-larger-models-show-greater-overall-robustness-our-results-highlight-the-need-for-careful-prompt-design-when-generating-synthetic-survey-data-with-llms",
+          title: 'I will present our paper Prompt Perturbations Reveal Human-Like Biases in Large Language...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_9/";
-            },},{id: "news-co-organizing-a-tutorial-at-ic-s-2026",
-          title: 'Co-organizing a Tutorial at IC²S² 2026',
+          section: "News",},{id: "news-i-am-co-organizing-a-tutorial-at-the-12th-international-conference-on-computational-social-science-ic-s-in-burlington-vermont-tutorial-an-introduction-to-simulating-human-survey-responses-with-large-language-models-potentials-and-pitfalls-this-hands-on-session-introduces-researchers-to-employing-large-language-models-for-generating-survey-data-with-an-emphasis-on-methodological-discipline-we-address-how-silicon-samples-can-supplement-human-data-collection-through-pretesting-and-statistical-correction-topics-covered-include-systematic-exploration-of-how-design-decisions-affect-simulation-results-the-qstn-framework-for-structured-simulations-python-based-practical-exercises-for-generating-simulated-responses-use-cases-including-missing-data-imputation-and-statistical-correction-critical-assessment-of-limitations-validation-issues-and-ethical-considerations-the-tutorial-is-co-organized-together-with-georg-ahnert-maximilian-kreutner-indira-sen-markus-strohmaier-university-of-mannheim-and-kristina-gligorić-johns-hopkins-university",
+          title: 'I am co-organizing a tutorial at the 12th International Conference on Computational Social...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_8/";
-            },},{
+          section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',

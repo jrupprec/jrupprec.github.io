@@ -2,7 +2,7 @@
 layout: post
 title: Presenting at NLP+CSS Workshop at ACL 2026
 date: 2026-07-03 09:00:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 

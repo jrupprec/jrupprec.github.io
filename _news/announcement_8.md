@@ -2,7 +2,7 @@
 layout: post
 title: Co-organizing a Tutorial at IC²S² 2026
 date: 2026-07-28 09:00:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 

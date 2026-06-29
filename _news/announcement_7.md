@@ -2,7 +2,7 @@
 layout: post
 title: CSS School at Lake Como
 date: 2026-06-15 17:00:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 

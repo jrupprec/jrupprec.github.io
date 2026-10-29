@@ -61,6 +61,16 @@ ninja.data = [{
           description: "CS 721 / IS 723 &amp;middot; Master &amp;middot; Instructor",
           section: "Courses",handler: () => {
               window.location.href = "/courses/4_seminar/";
+            },},{id: "courses-seminar-data-science-ii-amp-iii",
+          title: 'Seminar: Data Science II &amp;amp; III',
+          description: "IS 7230/IS 7040 &amp;middot; Master &amp;middot; Instructor",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/5_seminar_sds/";
+            },},{id: "courses-scientific-programming-with-python",
+          title: 'Scientific Programming with Python',
+          description: "IS 557 &amp;middot; Master &amp;middot; Exercise Instructor",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/6_python/";
             },},{id: "news-i-will-be-participating-at-ic-s-conference-in-norrköping-sweden-from-the-21-to-the-24-july-2025-presenting-a-poster-of-the-preprint-prompt-perturbations-reveal-human-like-biases-in-llm-survey-responses",
           title: 'I will be participating at IC²S² Conference in Norrköping, Sweden from the 21....',
           description: "",

@@ -5,17 +5,25 @@ title: teaching
 description: Overview of courses I teach at the University of Mannheim.
 nav: true
 nav_order: 3
-semesters: ["Spring 2026", "Autumn 2025"]
+semesters: ["Autumn 2026", "Spring 2026", "Autumn 2025"]
 ---
 
 <div class="teaching">
 
-<h2 class="mt-4">Master Thesis Supervisions</h2>
+<h2 class="mt-4">Thesis Supervisions</h2>
 <div class="thesis-list">
   <ul>
     <li>
       <strong>Evaluating the Impact of Prompting Strategies on Representative Persona Generation with Large Language Models</strong><br>
       <em>Discipline: Mannheim Master in Management</em>
+    </li>
+    <li>
+      <strong>Same Money, Different Advice? Investigating Sociodemographic Bias in Artificial Intelligence Investment Advice</strong><br>
+      <em>Discipline: B.Sc. Business Informatics</em>
+    </li>
+    <li>
+      <strong>Steering Language Models Toward Demographic Personas: Can Activation Steering Improve the Simulation of German Public Opinion? </strong><br>
+      <em>Discipline: M.Sc. Business Informatics</em>
     </li>
   </ul>
 </div>
